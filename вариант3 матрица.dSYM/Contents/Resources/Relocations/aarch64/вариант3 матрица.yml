@@ -1,0 +1,5 @@
+---
+triple:          'arm64-apple-darwin'
+binary-path:     "/Users/sanity/vscode/лаба 4/вариант3 матрица"
+relocations:     []
+...
